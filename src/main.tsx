@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import store from 'modules/store';
-import App from './App';
+import App from './layout/index';
 
 import 'tdesign-react/es/style/index.css';
 
